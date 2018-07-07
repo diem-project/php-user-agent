@@ -1,5 +1,5 @@
 {
-    "name": "ornicar/php-user-agent",
+    "name": "diem-project/php-user-agent",
     "type": "library",
     "keywords": [ "user-agent" ],
     "license": "MIT",
